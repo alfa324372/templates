@@ -7,8 +7,9 @@ template9: '{"NAME":"GenioGpo","GPIO":[0,0,0,32,2720,2656,0,0,2624,320,224,0,0,0
 link: https://www.kmart.com.au/product/mirabella-genio-wi-fi-power-plug-with-energy-monitoring/3294802
 link2: 
 mlink: https://mirabellagenio.net.au/electrical-1
-flash: serial
+flash: serial ?  no esp chip 
 category: plug
 type: Plug
 standard: au
+case glued together , NO esp chip 
 ---
